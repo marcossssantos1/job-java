@@ -1,5 +1,5 @@
-📄 job-java
-## O job-java é um projeto desenvolvido em Java, utilizando o framework Spring Batch, com o objetivo de processar dados de forma eficiente e escalável. Este projeto serve como base para a criação de jobs batch que podem ser integrados em sistemas maiores ou utilizados para tarefas específicas de processamento em lote.
+📄 JOB
+## Essa job é um projeto desenvolvido em Java, utilizando o framework Spring Batch, com o objetivo de processar dados de forma eficiente e escalável. Este projeto serve como base para a criação de jobs batch que podem ser integrados em sistemas maiores ou utilizados para tarefas específicas de processamento em lote.
 
 🚀 Tecnologias Utilizadas
 Java 21
